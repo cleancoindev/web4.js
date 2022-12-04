@@ -29,7 +29,7 @@
   "dependencies": {
     "@truffle/abi-utils": "^0.2.3",
     "@truffle/contract": "^4.3.29",
-    "@truffle/hdwallet-provider": "^1.4.3",
+    "@truffle/hdwallet-provider": "^1.6.0",
     "dotenv": "^8.2.0"
   },
   "devDependencies": {
