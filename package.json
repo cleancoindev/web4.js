@@ -28,7 +28,7 @@
   "license": "MIT",
   "dependencies": {
     "@truffle/abi-utils": "^0.2.3",
-    "@truffle/contract": "^4.3.29",
+    "@truffle/contract": "^4.6.10",
     "@truffle/hdwallet-provider": "^1.4.3",
     "dotenv": "^8.2.0"
   },
